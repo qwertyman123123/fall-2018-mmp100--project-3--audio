@@ -16,7 +16,9 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 [`http://mmp.bmcc.cuny.edu/jordano.medina/fall-2018/mmp-100/project-3/`](http://mmp.bmcc.cuny.edu/jordano.medina/fall-2018/mmp-100/project-3/)
 
 ### Description
-Your description goes here.
+I decided to have a sound clip of me drumming.
+the reason why is because I like drumming and
+I thought I would share it with the class 
 
 ## Rules
 * **Do not** add or remove any files to this repo.
