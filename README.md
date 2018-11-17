@@ -18,7 +18,7 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 ### Description
 I decided to have a sound clip of me drumming.
 the reason why is because I like drumming and
-I thought I would share it with the class 
+I thought I would share it with the class
 
 ## Rules
 * **Do not** add or remove any files to this repo.
